@@ -45,9 +45,6 @@
 </head>
 <body>
     <div class="login-container mt-5">
-        <div class="logo">
-            <h1>Logo</h1> <!-- Ganti dengan logo Anda -->
-        </div>
         <h2 class="text-center">Login</h2>
         <form method="POST" action="/unkpresent/caridana/index.php">
             <div class="mb-3">
