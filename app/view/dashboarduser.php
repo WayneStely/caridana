@@ -105,7 +105,7 @@ $user = $_SESSION['user'];
 </head>
 <body>
     <div class="container mt-5">
-        <h1 class="welcome-message">Hi, <?= htmlspecialchars($user['nama']); ?>!</h1>
+        <h1 class="welcome-message">wey, <?= htmlspecialchars($user['nama']); ?>!</h1>
         <p class="profile-info">You are logged in with the email: <?= htmlspecialchars($user['email']); ?></p>
 
         <div class="row">
