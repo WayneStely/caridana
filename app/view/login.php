@@ -46,7 +46,7 @@
 <body>
     <div class="login-container mt-5">
        
-        <h2 class="text-center">Login</h2>
+        <h2 class="text-center">Vijay</h2>
         <form method="POST" action="/unkpresent/caridana/index.php">
             <div class="mb-3">
                 <input type="email" name="email" class="form-control" placeholder="Email" required>
